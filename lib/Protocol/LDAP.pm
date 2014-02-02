@@ -1,5 +1,7 @@
 package Protocol::LDAP;
-use strict;
-use warnings;
+
+use strictures;
 
 1;
+
+# ABSTRACT: An IO-backend independent LDAP protocol implementation
